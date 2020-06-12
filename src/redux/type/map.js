@@ -1,0 +1,2 @@
+export const FETCH_CASES = 'FETCH_CASES'
+export const FETCH_COUNTRIES = 'FETCH_COUNTRIES'
